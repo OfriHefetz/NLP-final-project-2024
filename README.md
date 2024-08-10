@@ -10,8 +10,10 @@ This project proposes to examine how state-of-the-art language models perform in
 
 
 ## Project Structure
+- Items and prompts results - containing all the model answers in different formats
 
-[Explain the directory structure and key files in the project to help users navigate the codebase.]
+- Model responses - includes all raw answers 
+- NLP_Final_Project - main notebook
 
 ## Methodology
 
