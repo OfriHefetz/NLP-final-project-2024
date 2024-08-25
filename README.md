@@ -10,12 +10,9 @@ This project proposes to examine how state-of-the-art language models perform in
 
 
 ## Project Structure
-- Items and prompts results - containing all the model answers in different formats
-
-- Model responses - includes all raw answers 
-- NLP_Final_Project - main notebook
-
-## Methodology
-
-[Describe the approach and techniques used in the project, including model architecture, training process, data used, and evaluation metrics.]
+- Items and prompts results: containing all the model answers in different formats
+- Model responses: Includes all raw answers 
+- NLP_Final_Project: Main notebook containing all the experiments
+- Graphs & Analysis: Contains notebook used for data analysis.
+- Final report: The final report summarizing the findings and conclusions.
 
